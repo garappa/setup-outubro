@@ -1,4 +1,4 @@
-# Setup Outubro
+# [Out21] Guia Dev
 
 * Linux Ubuntu
 * Python 3.10
@@ -15,3 +15,7 @@ Vamos também cobrir os fundamentos e temas mais avançados de cada um dos assun
     - Instalação MySQL
     - Criação de um blog: base de conhecimento
     - Criação de um livro de receitas
+
+
+# Tarefas
+# 
